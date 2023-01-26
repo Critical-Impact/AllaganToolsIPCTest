@@ -1,0 +1,13 @@
+{
+  "Author": "Critical_Impact",
+  "Name": "Allagan Tools IPC Test",
+  "Punchline": "Test the IPC.",
+  "Description": "Provides a sample plugin for connecting to allagan tool's IPC.",
+  "InternalName": "AllaganToolsIPCTest",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "sample",
+    "plugin",
+    "goats"
+  ]
+}
